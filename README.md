@@ -1,3 +1,10 @@
+## Modulation of neuronal synchrony by population-level inhibitory delayed feedback 
+
+# Abstract 
+Neuronal synchrony is a hallmark of both healthy and pathological brain dynamics, often regulated by delayed interactions and inhibitory control. In this study, we investigate how delayed inhibitory feedback- representing the collective action of a population of inhibitory neurons- modulates synchronization in an excitatory network of Hodgkin-Huxley neurons coupled via delayed conductance-based synapses. We find that the impact of such feedback depends strongly on the baseline network state. In synchronized network activity states and in transitional regimes at the border of synchrony and desynchrony, feedback with intermediate delays enhances synchrony, whereas in desynchronized activity states, the effect is minimal. Furthermore, a brief, strong external pulse can initiate network-wide synchrony, which is maintained only when inhibitory feedback is present. These f indings demonstrate that population-level inhibitory feedback with delay can dynamically control network synchrony and induce bistable behavior, offering insight into mechanisms by which inhibitory circuits may stabilize or disrupt oscillatory activity in cortical networks.
+
+
+
 # Inhibitory-delayed-feedback — Key Result
 
 This repository contains the **main simulation code that generates the primary result of my MSc thesis paper** on synchronization in Hodgkin-Huxley neural networks with delayed feedback.
