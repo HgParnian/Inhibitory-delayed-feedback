@@ -36,6 +36,6 @@ For any questions, issues, or clarifications regarding the code or results, plea
 **Parnia Hatamian** — 📩 Hg.parnian@gmail.com
 
 ## 📖 Citation
-Hatamian, P., Ghadiri, A., Hashemi, M. R., Madadi Asl, M., & Valizadeh, A. (2025).  
+Hatamian, P., Hashemi, M. R., Madadi Asl, M., & Valizadeh, A. (2025).  
 *Modulation of neuronal synchrony by population-level inhibitory delayed feedback*.  
 Manuscript in preparation.
